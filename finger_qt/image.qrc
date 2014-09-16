@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/File">
+        <file>image/0.jpg</file>
+        <file>image/1.jpg</file>
+        <file>image/2.jpg</file>
+        <file>image/3.jpg</file>
+        <file>image/4.jpg</file>
+        <file>image/5.jpg</file>
+        <file>image/6.jpg</file>
+        <file>image/7.jpg</file>
+        <file>image/8.jpg</file>
+        <file>image/9.jpg</file>
+        <file>image/administrater.jpg</file>
+        <file>image/back.jpg</file>
+        <file>image/back1.jpg</file>
+        <file>image/backgrond2.jpg</file>
+        <file>image/background.jpg</file>
+        <file>image/background1.jpg</file>
+        <file>image/bell.jpg</file>
+        <file>image/call.jpg</file>
+        <file>image/callmaster.jpg</file>
+        <file>image/clearphoto.jpg</file>
+        <file>image/close.jpg</file>
+        <file>image/decrease.jpg</file>
+        <file>image/icon.jpg</file>
+        <file>image/increase.jpg</file>
+        <file>image/led.jpg</file>
+        <file>image/led1off.jpg</file>
+        <file>image/led1on.jpg</file>
+        <file>image/listen.jpg</file>
+        <file>image/name1.jpg</file>
+        <file>image/name2.jpg</file>
+        <file>image/name3.jpg</file>
+        <file>image/name11.jpg</file>
+        <file>image/name22.jpg</file>
+        <file>image/name33.jpg</file>
+        <file>image/opendoor.jpg</file>
+        <file>image/phone.jpg</file>
+        <file>image/photo.jpg</file>
+        <file>image/splash.jpg</file>
+        <file>image/stop.jpg</file>
+    </qresource>
+</RCC>
